@@ -1,5 +1,5 @@
 # Sign-up validation website
-Simple login app - assignment 4 of Web Programming course at SKKU.
+Simple login app - assignment 4 of Web Programming course at SKKU.  
 View here: https://josefpolasek.github.io/loginApp/
 
 ## ToDo
